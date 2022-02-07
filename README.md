@@ -10,7 +10,9 @@
 - 🌱 I’m currently learning GOlang, React, Flutter And More.
 - 💞️ I’m looking to collaborate with foreigner.
 
-[LinkedIn]{https://www.linkedin.com/in/ratchanon-volt-9b0870203/}
+### Here is my Social Media.
+- [Facebook](https://www.facebook.com/VoltyVolt/).
+- [LinkedIn](https://www.linkedin.com/in/ratchanon-volt-9b0870203/).
 
 #### This is me.
 ![Alt text](https://www.img.in.th/images/ccf7ec103d499ac34c2219fe539fac5f.jpg?raw=true "Title")
