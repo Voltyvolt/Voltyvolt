@@ -1,4 +1,4 @@
-# Hi! I'm Volty Dev. Welcome To my Github Profile. :innocent:
+# Hi! I'm Volty Developer. Welcome To my Github. :innocent:
 
 ### :hand: Hello I'm Ratchanon Thuknuek. My nickname is Volt. I'm a C# Developer in a Two years.
 
