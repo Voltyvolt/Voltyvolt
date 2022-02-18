@@ -12,7 +12,7 @@
 
 ### Here is my Social Media.
 - [Facebook](https://www.facebook.com/VoltyVolt/).
-- [LinkedIn](www.linkedin.com/in/ratchanonthu/).
+- [LinkedIn](https://www.linkedin.com/in/ratchanonthu/).
 
 #### This is me.
 ![Alt text](?raw=true "Title")
