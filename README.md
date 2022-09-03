@@ -1,11 +1,11 @@
 # Hi! I'm Volty Developer. Welcome To my Github. :innocent:
 
-### :hand: Hello I'm Ratchanon Thuknuek. My nickname is Volt. I'm a C# Developer in a Two years.
+### :hand: Hello I'm Ratchanon Thuknuek. My nickname is Volt. I'm a C# Developer in Three Years and System Analyst in 5 month
 
-#### :bookmark_tabs: Now I can use C#, Java, Python, HTML, CSS, Javascript, Angular, Kotlin, SQL, Bootstrap And Typescript a littlebit
+#### :bookmark_tabs: Now I can use C#, Java (Android Studio), Python, HTML, CSS, Javascript, SQL, Bootstrap
 
 ### Now
-- 👋 I’m currently working on Phitsanulok Sugar.
+- 👋 I’m currently working at HomePro.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning GOlang, React, Flutter And More.
 - 💞️ I’m looking to collaborate with foreigner.
